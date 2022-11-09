@@ -4,7 +4,7 @@ server_name: Gitlaravel
 vhost_name: Gitlaravel
 server_root_document: "/var/www/html"
 
-db_user: olumide
+db_user: database1
 db_name: database1
 db_password: database1
 
